@@ -11,7 +11,12 @@ export const menuItems = [
   {
     title: "Dashboard",
     // icon: "heroicons-outline:home",
-    link: "home",
+    link: "/admin/home",
+  },
+  {
+    title: "Manajemen Stock",
+    // icon: "heroicons-outline:home",
+    link: "",
   },
 ];
 // menuseetins

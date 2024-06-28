@@ -2,7 +2,15 @@ const router = [
     {
         name: "home",
         path: "home",
-        component: () => import("@/views/home/index.vue"),
+        component: () => import("@/views/Dashboard.vue"),
+        meta: {
+            groupParents: 'Home Dashboard'
+        },
+    },
+    {
+        name: "product-detail",
+        path: "product/:slug",
+        component: () => import("@/views/product-detail.vue"),
         meta: {
             groupParents: 'Home Dashboard'
         },

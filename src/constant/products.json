@@ -1,0 +1,101 @@
+[
+	{
+		"name": "Lemari Mahoni",
+		"category": "Mahoni",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 12000,
+		"production_price": 21000,
+		"wood_count": 10,
+		"image": "https://images.unsplash.com/photo-1640938776314-4d303f8a1380?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Meja Mahoni",
+		"category": "Mahoni",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 21000,
+		"production_price": 12000,
+		"wood_count": 10,
+		"image": "https://images.unsplash.com/photo-1476365518243-f738bf58443d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Kursi Mahoni",
+		"category": "Mahoni",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 21000,
+		"production_price": 12000,
+		"wood_count": 10,
+		"image": "https://i0.wp.com/rumahmebel.id/wp-content/uploads/2019/10/Kursi-Taman-Minimalis-16a.jpg?fit=500%2C500&ssl=1"
+	},
+	{
+		"name": "Lemari Jati",
+		"category": "Jati",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 1000,
+		"production_price": 1000,
+		"wood_count": 10,
+		"image": "https://images.unsplash.com/photo-1476365518243-f738bf58443d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Kursi Jati",
+		"category": "Jati",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 1000,
+		"production_price": 1000,
+		"wood_count": 10,
+		"image": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Meja Jati",
+		"category": "Jati",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 1000,
+		"production_price": 1000,
+		"wood_count": 10,
+		"image": "https://images.unsplash.com/photo-1476365518243-f738bf58443d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Lemari Akasia",
+		"category": "Akasia",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 1000,
+		"production_price": 1000,
+		"wood_count": 10,
+		"image": "https://images.unsplash.com/photo-1476365518243-f738bf58443d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Meja Akasia",
+		"category": "Akasia",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 1000,
+		"production_price": 1000,
+		"wood_count": 10,
+		"image": "https://images.unsplash.com/photo-1476365518243-f738bf58443d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Kursi Akasia",
+		"category": "Akasia",
+		"description": "Panjang 100cm - 190cm diameter 16cm - 19cm",
+		"price": 10000,
+		"stock": 10,
+		"wood_price": 12000,
+		"production_price": 21000,
+		"wood_count": 12,
+		"image": "https://images.unsplash.com/photo-1640938776314-4d303f8a1380?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	}
+]
